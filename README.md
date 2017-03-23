@@ -32,3 +32,4 @@ Read By:
 -Alex Nordstrom
 -Matt Ames
 -Sam Nixon
+-Janice Wallace
